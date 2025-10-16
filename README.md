@@ -42,7 +42,6 @@ nse-smart-dashboard/
 
 ### 1. Clone this repository
 git clone https://github.com/JudeMuriithi/nse-smart-dashboard.git
-cd nse-smart-dashboard
 
 ### 2. Create a virtual environment
 pip install -r requirements.txt
